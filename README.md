@@ -14,6 +14,6 @@ Removes the floating user panel and brings back the old server icons.<br/>
 **Doesn't touch anything nitro related.**<br/>
 
 
-
+##
 ### Thanks to:
 - croissantdunord for his [discord-adblock](https://github.com/CroissantDuNord/discord-adblock) project

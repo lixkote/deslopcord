@@ -2,7 +2,7 @@
 discord but not bloated
 ##
 
-### Full
+### [Full](https://github.com/lixkote/deslopcord/blob/main/deslopcord-Full.css)
 Docks the floating user panel, brings back the old server icons, and cuts out unnecessary stuff (gifts, billing settings, nitro mentions here and there). Also strips out most ads, upsells, and other clutter.
 
 You'll still be able to see nitro effects on other's profiles as before.<br/>
@@ -10,7 +10,7 @@ You'll still be able to see nitro effects on other's profiles as before.<br/>
 **TL;DR: a clean, distraction-free discord experience.**<br/>
 ##
 
-### Lite
+### [Lite](https://github.com/lixkote/deslopcord/blob/main/deslopcord-Lite.css)
 Removes the floating user panel and brings back the old server icons.<br/>
 **Doesn't touch anything nitro related.**<br/>
 

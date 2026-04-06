@@ -10,7 +10,7 @@ You'll still be able to see nitro effects on other's profiles as before.<br/>
 
 
 ### Lite
-Removes the floating user panel and brings back the old server icons.
+Removes the floating user panel and brings back the old server icons.<br/>
 **Doesn't touch anything nitro related.**<br/>
 
 

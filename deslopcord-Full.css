@@ -28,6 +28,13 @@
     display: none;
 }
 
+
+/* Block last meadow ads */
+.trailer_f48e1f,
+.container_f48e1f{
+    display: none;
+}
+
 /* Hide setting nitro subscription settings */
 [aria-label="Ustawienia rozliczeń"] {
     display: none !important;

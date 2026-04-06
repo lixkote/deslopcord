@@ -51,4 +51,4 @@ Then, enable the desired theme in settings.
 
 ##
 ### Thanks to:
-- croissantdunord for his [discord-adblock](https://github.com/CroissantDuNord/discord-adblock) project
+- ridge for his [Discord-AdBlock](https://codeberg.org/ridge/Discord-AdBlock) project

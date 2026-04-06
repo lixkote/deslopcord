@@ -1,5 +1,6 @@
 # deslopcord
 discord but not bloated
+##
 
 ### Full
 Docks the floating user panel, brings back the old server icons, and cuts out unnecessary stuff (gifts, billing settings, nitro mentions here and there). Also strips out most ads, upsells, and other clutter.

@@ -2,6 +2,7 @@
 discord but not bloated
 ##
 
+
 ### [Full](https://github.com/lixkote/deslopcord/blob/main/deslopcord-Full.css)
 Docks the floating user panel, brings back the old server icons, and cuts out unnecessary stuff (gifts, billing settings, nitro mentions here and there). Also strips out most ads, upsells, and other clutter.
 
@@ -42,6 +43,11 @@ Removes the floating user panel and brings back the old server icons.<br/>
     style="height:200px;" 
   />
 </a>
+
+##
+### Usage:
+To install, just download the css files, and drop them into vencord themes directory<br/>
+Then, enable the desired theme in settings.
 
 ##
 ### Thanks to:

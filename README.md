@@ -33,13 +33,13 @@ Removes the floating user panel and brings back the old server icons.<br/>
 <a href="https://raw.githubusercontent.com/lixkote/deslopcord/refs/heads/main/assets/lite1.png" target="_blank">
   <img 
     src="https://raw.githubusercontent.com/lixkote/deslopcord/refs/heads/main/assets/lite1.png" 
-    style="max-height:200px;" 
+    style="height:200px;" 
   />
 </a>
 <a href="https://raw.githubusercontent.com/lixkote/deslopcord/refs/heads/main/assets/lite2.png" target="_blank">
   <img 
     src="https://raw.githubusercontent.com/lixkote/deslopcord/refs/heads/main/assets/lite2.png" 
-    style="max-height:200px;" 
+    style="height:200px;" 
   />
 </a>
 

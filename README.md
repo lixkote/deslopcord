@@ -7,7 +7,7 @@ Docks the floating user panel, brings back the old server icons, and cuts out un
 You'll still be able to see nitro effects on other's profiles as before.<br/>
 
 **TL;DR: a clean, distraction-free discord experience.**<br/>
-
+##
 
 ### Lite
 Removes the floating user panel and brings back the old server icons.<br/>

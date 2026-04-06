@@ -5,13 +5,13 @@ discord but not bloated
 <a href="https://raw.githubusercontent.com/lixkote/deslopcord/refs/heads/main/assets/full1.png" target="_blank">
   <img 
     src="https://raw.githubusercontent.com/lixkote/deslopcord/refs/heads/main/assets/full1.png" 
-    style="max-height:100px; border-radius:12px;" 
+    style="height:100px; border-radius:12px;" 
   />
 </a>
 <a href="https://raw.githubusercontent.com/lixkote/deslopcord/refs/heads/main/assets/full2.png" target="_blank">
   <img 
     src="https://raw.githubusercontent.com/lixkote/deslopcord/refs/heads/main/assets/full2.png" 
-    style="max-height:100px; border-radius:12px;" 
+    style="height:100px; border-radius:12px;" 
   />
 </a>
 

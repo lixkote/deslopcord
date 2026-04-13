@@ -14,6 +14,11 @@
     display: none;
 }
 
+/* block game adware */
+.wrapper__0d616, .wrapperVisible__0d616 {
+    display: none;
+}
+
 /* Hide the title */
 .title_edbb22 {
     display: none;

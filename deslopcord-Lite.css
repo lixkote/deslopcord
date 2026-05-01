@@ -19,6 +19,13 @@
     width: calc(var(--custom-guild-sidebar-width) - var(--custom-guild-list-width) - 1px);
 }
 
+/* Fix ugly rounded leftover on user shelf */
+.panel__5dec7, .activityPanel__5e434  {
+    border-start-end-radius: 0px;
+    border-start-start-radius: 0px;
+    border-radius: 0px;
+}
+
 :root {
     --guildbar-avatar-size: 46px;
     --blob-scale: 46;

@@ -2,12 +2,12 @@
  * @name deslopcord 07.04.2026 (Full)
  * @author lixkote
  * @description Make Discord UI more simple, functional, and less cluttered. Remove nitro upsells and slop.
- * @version 07.04.2026
+ * @version 01.05.2026
  */
 
 /* block most of nitro adware slop */
 /* huge thanks to ridge */
-@import url(https://croissantdunord.github.io/discord-adblock/adblock.css);
+@import url(https://codeberg.org/ridge/Discord-Adblock/raw/branch/main/discord-adblock.css);
 
 /* Hide tasks buttons */
 .wrapper__553bf {

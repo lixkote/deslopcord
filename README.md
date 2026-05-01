@@ -46,8 +46,21 @@ Removes the floating user panel and brings back the old server icons.<br/>
 
 ##
 ### Usage:
-To install, just download the css files, and drop them into vencord themes directory<br/>
-Then, enable the desired theme in settings.
+First, you'll need a mod such as [Vencord](https://vencord.dev/).
+  
+Once that's installed, find the **Custom CSS** menu for your chosen mod.  
+By adding this line to it, the list should auto-update when you start your Discord client.  
+
+*For the Full version:*
+```css
+@import url(https://raw.githubusercontent.com/lixkote/deslopcord/refs/heads/main/deslopcord-Full.css);
+```
+
+*For the Lite version:*
+```css
+@import url(https://raw.githubusercontent.com/lixkote/deslopcord/refs/heads/main/deslopcord-Lite.css);
+```
+
 
 ##
 ### Thanks to:

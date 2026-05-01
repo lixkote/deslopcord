@@ -14,6 +14,13 @@
     display: none;
 }
 
+/* Fix ugly rounded leftover on user shelf */
+.panel__5dec7, .activityPanel__5e434  {
+    border-start-end-radius: 0px;
+    border-start-start-radius: 0px;
+    border-radius: 0px;
+}
+
 /* block game adware */
 .wrapper__0d616, .wrapperVisible__0d616 {
     display: none;

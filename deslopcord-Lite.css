@@ -1,8 +1,8 @@
 /**
- * @name deslopcord 01.05.2026 (Lite)
+ * @name deslopcord 15.08.2026 (Lite)
  * @author lixkote
  * @description Make Discord UI more simple, functional, and less cluttered. Made to slightly resemble mobile discord app, or pre-2025-redesign one.
- * @version 01.05.2026
+ * @version 15.08.2026
  */
 
 /* Remove float around user panel and dock it like before */
@@ -187,13 +187,6 @@ nav[class*="guilds_"] {
 /* Channel header container */
 .privateChannelsHeaderContainer__99e7c {
     margin-top: 6px;
-}
-
-/* Message styling */
-.editor__1b31f,
-[class*="messageContent"],
-[class*="message-content"] {
-    color: white !important;
 }
 
 .inner_c0bea0 {

@@ -1,8 +1,8 @@
 /**
- * @name deslopcord 17.08.2026 (Full)
+ * @name deslopcord 20.08.2026 (Full)
  * @author lixkote
  * @description Make Discord UI more simple, functional, and less cluttered. Remove nitro upsells and slop.
- * @version 17.08.2026
+ * @version 20.08.2026
  */
 
 /* block most of nitro adware slop */
@@ -28,6 +28,11 @@
 
 /* Hide the title */
 .title_edbb22 {
+    display: none;
+}
+
+/* Hide stupid new nav arrows */
+.backForwardButtons__63abb {
     display: none;
 }
 
